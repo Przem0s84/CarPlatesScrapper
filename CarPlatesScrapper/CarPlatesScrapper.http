@@ -1,0 +1,6 @@
+@CarPlatesScrapper_HostAddress = http://localhost:5175
+
+GET {{CarPlatesScrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
